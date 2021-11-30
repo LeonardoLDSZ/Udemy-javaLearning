@@ -19,7 +19,7 @@ public class ProgramFuncionario {
             funcionario.taxa = sc.nextDouble();
 
             System.out.println();
-            System.out.println("Funcionario: " + funcionario);
+            System.out.println("Employee: " + funcionario);
             System.out.println();
             System.out.print("Qual a porcentagem de aumento: ");
             double percentage = sc.nextDouble();
