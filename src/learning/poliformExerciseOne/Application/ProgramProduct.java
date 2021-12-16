@@ -24,7 +24,7 @@ public class ProgramProduct {
         int n = sc.nextInt();
 
         for (int i=1; i<=n; i++) {
-            System.out.println("Product #" + i + " data:");
+            System.out.println("Vehicle #" + i + " data:");
             System.out.print("Common, used or imported (c/u/i)? ");
             char type = sc.next().charAt(0);
             System.out.print("Name: ");

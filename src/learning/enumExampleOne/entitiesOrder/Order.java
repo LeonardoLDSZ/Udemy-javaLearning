@@ -44,7 +44,7 @@ public class Order {
 
     @Override
     public String toString() {
-        return "Order{" +
+        return "CarRental{" +
                 "id=" + id +
                 ", moment=" + moment +
                 ", status=" + status +

@@ -44,9 +44,9 @@ public class ProgramOrder {
         for (int i=1;i<=n;i++){
             System.out.println("======== Enter #" + i + " item data ========");
             sc.nextLine();
-            System.out.print("Product name: ");
+            System.out.print("Vehicle name: ");
             String productName = sc.nextLine();
-            System.out.print("Product price: ");
+            System.out.print("Vehicle price: ");
             Double productPrice = sc.nextDouble();
             System.out.print("Quantity: ");
             Integer quantity = sc.nextInt();
