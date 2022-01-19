@@ -6,7 +6,7 @@ import java.util.Scanner;
 public class sampleOne {
     public static void main (String [] args) {
         method1();
-        System.out.println("End of program");
+        System.out.println("End of programJPA");
     }
     public static void method1() {
         System.out.println("***METHOD1 START***");
